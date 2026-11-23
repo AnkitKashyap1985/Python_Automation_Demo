@@ -49,7 +49,7 @@ print(ans)
 
 # Way 2 using while loop (H.W)
 
-
+'''
 # Way 3 : Using string slicing with split
 s1 = 'etl qa labs'
 list1 = s1.split(" ")
@@ -62,7 +62,7 @@ for ele in revlist:
 print(ans)
 
 ans_join = " ".join(revlist)
-print("ans_join)
+print(ans_join)
 
 
 # Q6. Return a substring which starts with Q and ends with B
@@ -72,7 +72,7 @@ start = s1.find('Q')
 end = s1.find('B')
 ans = s1[start:end+1:1]
 print(ans)
-
+'''
 
 # Q7. Count the number of occurrence of the each element int he list
 # list1 = [1,2,3,4,5,1,2,5,5]
@@ -111,11 +111,11 @@ def getUnique(ans):
             uniqueList.append(key)
     return uniqueList
 print(getUnique(ans))
-'''
+
 # Get the count of each elements without using dictionary.
 list1 = [1,2,3,4,5,1,2,5,5]
 duplicate_set = set()
 for ele in list1:
     if list1.count(ele)>1 and ele not in duplicate_set:
         duplicate_set.append(ele)
-        duplicate_set.add(ele)
+        duplicate_set.add(ele)'''
