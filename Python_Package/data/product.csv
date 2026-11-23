@@ -1,0 +1,21 @@
+product_id,product_name,category,price,quantity,supplier,product_status
+1001,Laptop Pro 14,Electronicss,7485,15,TechWorld12,ACTIVE
+1002,Wireless Mouse,Electronics,1299,80,TechWorld,ACTIVE
+1003,Mechanical Keyboard,Electronics,3499,45,KeyMart,ACTIVE
+1004,USB-C Hub,Accessories,1899,60,ConnectPlus,ACTIVE
+1005,27 Inch Monitor,Electronics,21999,25,VisionTech,ACTIVE
+1006,Laptop Stand,Accessories,2499,35,OfficeGear,ACTIVE
+1007,Bluetooth Speaker,Audio,2999,50,SoundMax,ACTIVE
+1008,Noisesksk Cancelling Headphones,Audio,8999,20,SoundMax,ACTIVE
+1009,Web Camera,Electronics,4599,30,VisionTech,ACTIVE
+1010,External SSD 1TB,Storage,6999,40,DataStore,ACTIVE
+1011,Portable Hard Drive 2TB,Storage,5899,28,DataStore,ACTIVE
+1012,Power Bank 20000mAh,Accessories,2199,55,PowerPlus,ACTIVE
+1013,Smart Watch,Wearables,4999,32,WearTech,ACTIVE
+1014,Fitness Band,Wearables,2499,42,WearTech,ACTIVE
+1015,Tablet 10 Inch,Electronics,15999,18,TechWorld,ACTIVE
+1016,Wireless Chargaaaaer,Accessories,1599,70,PowerPlus,ACTIVE
+1017,Office Chair,Furniture,8999,12,OfficeGear,ACTIVE
+1018,Standing Desk,Furniture,18999,8,OfficeGear,ACTIVE
+1019,Laser Printer,Printers,12999,14,PrintTech,ACTIVE
+1020,Inkjet Printer,Printers,7999,22,PrintTech,INACTIVE
